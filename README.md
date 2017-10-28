@@ -1,5 +1,5 @@
 # Plane
-a 2 dimensional plane of cells that you can set and get the state of in Gideros
+a 2 dimensional plane of cells that you can set and get the state of
 
 When creating a 2 diensional array to hold states you would usually do something like this..
 ```Lua
